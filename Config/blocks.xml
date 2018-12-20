@@ -3,13 +3,13 @@
 
 <block name="cntFridgeBottom">
 	<property name="Extends" value="cntWashingMachine"/>
-	<property name="Texture" value="267,267,265,267,267,267"/>
+	<property name="Texture" value="267,267,267,267,267,267"/>
 	<property name="LootList" value="47"/>
 	<property name="CreativeMode" value="Player"/>
 </block>
 <block name="cntFridgeTop">
 	<property name="Extends" value="cntWashingMachine"/>
-	<property name="Texture" value="267,267,265,267,267,267"/>
+	<property name="Texture" value="267,267,267,267,267,267"/>
 	<property name="LootList" value="47"/>
 	<property name="CreativeMode" value="Player"/>
 </block>
