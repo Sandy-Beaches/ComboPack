@@ -232,7 +232,7 @@
 <!-- Wilderness Stuff -->
 <!-- First, rename current wilderness group and then remove traders. -->
 <set xpath="/rwgmixer/prefab_rules/prefab_rule[@name='wildernessGroup']/@name">W_POIs_common</set>
-<remove xpath="/rwgmixer/prefab_rules/prefab_rule[@name='W_POIs_common']/prefab[@rule='traderGroup']" />
+<!-- <remove xpath="/rwgmixer/prefab_rules/prefab_rule[@name='W_POIs_common']/prefab[@rule='traderGroup']" /> -->
 
 <!-- Add in our common pois. -->
 <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='W_POIs_common']">
